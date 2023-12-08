@@ -67,14 +67,14 @@ li a{
     width: 1140px;
     height: 300px;
 }
-.banner .texto_flot {
+.banner .texto_flotar {
 	position: absolute;
     top:35%;
     left: 15%;
 	color: #fff;
     text-shadow: 2px 2px 4px black;
 }
-.banner .texto_flot h5 {
+.banner .texto_flotar h5 {
     line-height: 80%;
     text-shadow: 1px 1px 2px black;    
 }
